@@ -1,3 +1,5 @@
+package com.empresa1.ejercicio2;
+
 public class Programador {
     String nombre;
     String lenguaje;
